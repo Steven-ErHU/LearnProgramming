@@ -1,0 +1,8 @@
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\bin\Debug\netcoreapp3.1\CoreReviewBoard.Core.deps.json
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\bin\Debug\netcoreapp3.1\CoreReviewBoard.Core.dll
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\bin\Debug\netcoreapp3.1\CoreReviewBoard.Core.pdb
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\obj\Debug\netcoreapp3.1\CoreReviewBoard.Core.csprojAssemblyReference.cache
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\obj\Debug\netcoreapp3.1\CoreReviewBoard.Core.AssemblyInfoInputs.cache
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\obj\Debug\netcoreapp3.1\CoreReviewBoard.Core.AssemblyInfo.cs
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\obj\Debug\netcoreapp3.1\CoreReviewBoard.Core.dll
+D:\02-projects\14-CoreReviewBoard\CoreReviewBoard\CoreReviewBoard.Core\obj\Debug\netcoreapp3.1\CoreReviewBoard.Core.pdb

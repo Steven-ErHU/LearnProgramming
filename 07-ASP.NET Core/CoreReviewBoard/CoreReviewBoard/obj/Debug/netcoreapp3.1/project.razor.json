@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard.csproj",
+  "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20501,38 +20501,43 @@
   "RootNamespace": "CoreReviewBoard",
   "Documents": [
     {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\Index.cshtml",
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\ReviewBoard.cshtml",
+      "TargetPath": "Pages\\ReviewBoard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\02-projects\\14-CoreReviewBoard\\CoreReviewBoard\\CoreReviewBoard\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
