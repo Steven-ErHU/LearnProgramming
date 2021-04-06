@@ -1,0 +1,6 @@
+# 使用 async 和 await 进行异步编程
+
+The Task asynchronous programming model (TAP) provides an abstraction over asynchronous code. You write code as a sequence of statements, just like always. You can read that code as though each statement completes before the next begins. The compiler performs many transformations because some of those statements may start work and return a Task that represents the ongoing work.
+基于 Task 的异步编程模型（TAP）提供了对以往异步代码的抽象，它保留了非异步程序的逻辑顺序，由编译器在后台对代码进行转换。
+
+That's the goal of this syntax: enable code that reads like a sequence of statements, but executes in a much more complicated order based on external resource allocation and when tasks complete. It's analogous to how people give instructions for processes that include asynchronous tasks. Throughout this article, you'll use an example of instructions for making a breakfast to see how the async and await keywords make it easier to reason about code, that includes a series of asynchronous instructions. You'd write the instructions something like the following list to explain how to make a breakfast:

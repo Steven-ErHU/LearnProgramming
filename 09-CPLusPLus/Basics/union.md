@@ -45,7 +45,6 @@ int main()
 
 ## 使用 union
 
-In the previous example, any code that accesses the union needs to know which member holds the data. The most common solution to this problem is called a *discriminated union*. It encloses the union in a struct, and includes an enum member that indicates the member type currently stored in the union. The following example shows the basic pattern:
 前面例子中，任何访问 union 的代码都需要知道哪个成员包含了数据。常用的解决方案是将 union 放入一个结构体, 然后用一个枚举值来记录 union 中当前包含数据的成员类型是哪个，看下面示例：
 
 ```cpp
